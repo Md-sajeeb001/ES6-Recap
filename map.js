@@ -33,5 +33,14 @@ const result = diviArr.map((n) => n / 2);
 // console.log(result);
 
 // add number
-const add = diviArr.map((n) => n +7);
-console.log(add);
+const add = diviArr.map((n) => n + 7);
+// console.log(add);
+
+const friends = ["tom", "tim", "malak", "jalek", "michels", "abdullha"];
+const friendsArr = friends.map((frn) => {
+  const len = frn.length;
+  if (len > 3 ) {
+    console.log(frn)
+  }
+});
+
