@@ -17,9 +17,9 @@
 // const result2 = personName.address.study[1].id;
 // console.log(result, result2);
 
-const friends = [
-    {name1: "jafor", age: 23, identy: 'student'},
-    {name1: "ullha", age: 40, identy: 'kamla'}
-]
+// const friends = [
+//     {name1: "jafor", age: 23, identy: 'student'},
+//     {name1: "ullha", age: 40, identy: 'kamla'}
+// ]
+// console.log(friends[1].identy);
 
-console.log(friends[1].identy);
