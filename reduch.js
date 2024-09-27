@@ -7,3 +7,7 @@ const products2 = [
 
 const product = products2.reduce((p, c) => p + c.price, 0);
 console.log(product);
+
+const nums = [1,2,3,4,5];
+let output = nums.filter(n => n%2);
+console.log(output);
